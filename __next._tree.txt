@@ -1,2 +1,2 @@
 :HL["/casi-snowboard-lab/_next/static/chunks/0szw9mw5z0i3b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"CUQIdJ4hz5NV8RmGAwoM5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"nXDRL4lfL30a6KZd8yvnS"}
