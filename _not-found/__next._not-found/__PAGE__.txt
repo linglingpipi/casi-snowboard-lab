@@ -1,15 +1,15 @@
 1:"$Sreact.fragment"
-2:I[97367,["/casi-snowboard-lab/_next/static/chunks/1wf00tm_lrsjj.js"],"OutletBoundary"]
+2:I[97367,["/casi-snowboard-lab/_next/static/chunks/2r12eqs1kva9s.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-7:I[97367,["/casi-snowboard-lab/_next/static/chunks/1wf00tm_lrsjj.js"],"ViewportBoundary"]
-8:I[97367,["/casi-snowboard-lab/_next/static/chunks/1wf00tm_lrsjj.js"],"MetadataBoundary"]
-9:I[27201,["/casi-snowboard-lab/_next/static/chunks/1wf00tm_lrsjj.js"],"IconMark"]
-b:I[39756,["/casi-snowboard-lab/_next/static/chunks/1wf00tm_lrsjj.js"],"default"]
-c:I[37457,["/casi-snowboard-lab/_next/static/chunks/1wf00tm_lrsjj.js"],"default"]
+7:I[97367,["/casi-snowboard-lab/_next/static/chunks/2r12eqs1kva9s.js"],"ViewportBoundary"]
+8:I[97367,["/casi-snowboard-lab/_next/static/chunks/2r12eqs1kva9s.js"],"MetadataBoundary"]
+9:I[27201,["/casi-snowboard-lab/_next/static/chunks/2r12eqs1kva9s.js"],"IconMark"]
+b:I[39756,["/casi-snowboard-lab/_next/static/chunks/2r12eqs1kva9s.js"],"default"]
+c:I[37457,["/casi-snowboard-lab/_next/static/chunks/2r12eqs1kva9s.js"],"default"]
 6:X
 e:X
 e:C
-0:{"buildId":"4wdJfdaQNuVcJu4VKXXbr","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"page-shell page-intro","children":[["$","p",null,{"className":"eyebrow","children":"404 / NOTE NOT FOUND"}],["$","h1",null,{"children":"这篇笔记尚不存在。"}],["$","a",null,{"href":"/casi-snowboard-lab/learn/","className":"primary-link","children":"返回知识库 ↗"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"CASI Snowboard Lab"}],["$","meta","1",{"name":"description","content":"课后复习、课程笔记与单板滑雪知识图解。"}],["$","link","2",{"rel":"icon","href":"/casi-snowboard-lab/icon.svg?icon.1g78lhbs9zrlc.svg","sizes":"any","type":"image/svg+xml"}],["$","$L9","3",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+0:{"buildId":"1HkAEfeB7qamhfRGHcjFb","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"page-shell page-intro","children":[["$","p",null,{"className":"eyebrow","children":"404 / NOTE NOT FOUND"}],["$","h1",null,{"children":"这篇笔记尚不存在。"}],["$","a",null,{"href":"/casi-snowboard-lab/learn/","className":"primary-link","children":"返回知识库 ↗"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"CASI Snowboard Lab"}],["$","meta","1",{"name":"description","content":"课后复习、课程笔记与单板滑雪知识图解。"}],["$","link","2",{"rel":"icon","href":"/casi-snowboard-lab/icon.svg?icon.2ns1xgxvrvzy9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L9","3",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
 4:null
 10:true
 6:300
